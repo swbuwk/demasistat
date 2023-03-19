@@ -1,0 +1,24 @@
+{
+  "name": "demasia",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swbuwk/starter-micro-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swbuwk/starter-micro-api/issues"
+  },
+  "homepage": "https://github.com/swbuwk/starter-micro-api#readme",
+  "dependencies": {
+    "vk-io": "^4.8.1"
+  }
+}
